@@ -53,7 +53,7 @@ def app():
         opcion = int(input('Eliga una opcion:\r\n'))
         if opcion == 1:
             print('-------------Cargar archivo--------------\n')
-            leer_archivo(lista_peliculas)           
+            leer_archivo(lista_peliculas)        
             for i in lista_peliculas:
                 i.mostar_info()
             print('\n------Archivo cargado exitosamente------\n')
