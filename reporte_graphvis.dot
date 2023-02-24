@@ -1,0 +1,59 @@
+digraph{ 
+rankdir = TB; 
+node[shape = record] 
+Capitan America: El primer vengador[color = red, style = filled, label = "{Capitan America: El primer vengador| 2011|Accion}"]
+Capitana Marvel[color = red, style = filled, label = "{Capitana Marvel| 2019| Accion}"]
+Iron Man[color = red, style = filled, label = "{Iron Man| 2008|Accion}"]
+Iron Man 2[color = red, style = filled, label = "{Iron Man 2| 2011| Accion}"]
+Thor[color = red, style = filled, label = "{Thor|2011|Accion}"]
+Los Vengadores[color = red, style = filled, label = "{Los Vengadores|2012|Accion}"]
+Thor: El mundo oscuro[color = red, style = filled, label = "{Thor: El mundo oscuro|2013|Accion}"]
+Iron Man 3[color = red, style = filled, label = "{Iron Man 3| 2013|Accion}"]
+Capitan America: El Soldado de Invierno[color = red, style = filled, label = "{Capitan America: El Soldado de Invierno|2014|Accion}"]
+Capitan America: El primer vengador->ChrisEvans
+Capitan America: El primer vengador->TommyLeeJones
+Capitan America: El primer vengador->HayleyAtwell
+Capitan America: El primer vengador->SebastianStan
+Capitan America: El primer vengador->StanLee
+Capitana Marvel->BrieLarson
+Capitana Marvel->SamuelLJackson
+Iron Man->RobertDowneyJr
+Iron Man->JonFavreau
+Iron Man->GwynethPaltrow
+Iron Man->StanLee
+Iron Man 2->RobertDowneyJr
+Iron Man 2->JonFavreau
+Iron Man 2->GwynethPaltrow
+Iron Man 2->StanLee
+Iron Man 2->ScarlettJohansson
+Thor->ChrisHemsworth
+Thor->NataliePortman
+Thor->TomHiddleston
+Thor->IdrisElba
+Los Vengadores->ScarlettJohansson
+Los Vengadores->GwynethPaltrow
+Los Vengadores->RobertDowneyJr
+Los Vengadores->JeremyRenner
+Los Vengadores->ChrisEvans
+Los Vengadores->ChrisHemsworth
+Los Vengadores->MarkRuffalo
+Los Vengadores->SamuelLJackson
+Thor: El mundo oscuro->ChrisHemsworth
+Thor: El mundo oscuro->NataliePortman
+Thor: El mundo oscuro->TomHiddleston
+Thor: El mundo oscuro->AnthonyHopkins
+Thor: El mundo oscuro->IdrisElba
+Thor: El mundo oscuro->StellanSkarsgård
+Thor: El mundo oscuro->ChristopherEccleston
+Thor: El mundo oscuro->AdriannePalicki
+Iron Man 3->RobertDowneyJr
+Iron Man 3->JonFavreau
+Iron Man 3->GwynethPaltrow
+Iron Man 3->StanLee
+Capitan America: El Soldado de Invierno->ChrisEvans
+Capitan America: El Soldado de Invierno->ScarlettJohansson
+Capitan America: El Soldado de Invierno->SebastianStan
+Capitan America: El Soldado de Invierno->AnthonyMackie
+Capitan America: El Soldado de Invierno->SamuelLJackson
+Capitan America: El Soldado de Invierno->StanLee
+}
